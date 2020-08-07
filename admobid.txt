@@ -1,0 +1,21 @@
+ca-app-pub-5127732352388800~7943898699
+add:unit id:ca-app-pub-5127732352388800/4277784724
+
+
+industrial add:
+ca-app-pub-5127732352388800~7943898699
+unit Id:ca-app-pub-5127732352388800/4053341871
+
+
+APK Bundle Password:
+
+Key PAth store:
+Thereisnopassword
+
+Key:
+Alias:
+Password:12Thereisnopassword
+
+keystorepassword:01871752332
+keyalias:key0
+keypassword:01912716465
